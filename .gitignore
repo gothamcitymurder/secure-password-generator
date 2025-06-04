@@ -20,4 +20,6 @@ env/
 Thumbs.db
 
 # PyQt specific
-*.ui.py 
+*.ui.py
+
+cursor/ 
