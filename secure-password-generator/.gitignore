@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment
+env/
+.venv/
+*.env
+.env
+
+# IDE-specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# PyQt specific
+*.ui.py
+
+# Build and distribution folders
+build/
+dist/
+
+cursor/ 
